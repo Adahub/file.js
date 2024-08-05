@@ -1,0 +1,8 @@
+Const accountId = 144756
+let accountEmail = "ada@google.com"
+var accountPassword = "12345"
+accountCity = "Jaipur"
+
+accountId = 2
+
+console.log(accountId);
